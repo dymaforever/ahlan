@@ -1,0 +1,2 @@
+# ahlan
+safe.js
